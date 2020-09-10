@@ -7,7 +7,8 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Console.Write("Hello world");
+            Console.Write("Hello world changed");
+            Console.Write("Bug Fixed");
         }
     }
 
