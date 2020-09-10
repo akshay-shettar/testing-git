@@ -9,6 +9,7 @@ namespace ConsoleApp1
         {
             Console.Write("Hello world changed");
             Console.Write("Bug Fixed");
+            askn lasf ujsaf nsaf
         }
     }
 
